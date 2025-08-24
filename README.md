@@ -1,4 +1,4 @@
-# Advanced Indian ID Document Forgery Detection System
+# Advanced ID Document Forgery Detection System
 
 An intelligent deep learning framework specifically designed for detecting copy-move forgeries in Indian identity documents using state-of-the-art computer vision techniques.
 
